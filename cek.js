@@ -6,5 +6,6 @@
     </head>
     <body>
         <p>Hello Dunia, Saya sedang belajar Git</p>
+        <p>Hello Dunia, Saya sedang belajar Git</p>
     </body>
 </html>
